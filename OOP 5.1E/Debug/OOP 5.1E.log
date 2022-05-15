@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(17,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(23,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(24,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(35,76): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(38,39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(39,41): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(40,39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Point.h(41,41): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  OOP 5.1E.vcxproj -> C:\Users\Asus\Desktop\ООП 5.1E\OOP 5.1E\Debug\OOP 5.1E.exe
